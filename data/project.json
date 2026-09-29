@@ -1,0 +1,6 @@
+{
+  "source": "https://github.com/open-android/Android",
+  "projects": [
+    { "name": "Android Open Source Collection", "status": "tested" }
+  ]
+}
