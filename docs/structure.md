@@ -1,7 +1,7 @@
 ###### structure.md >> markdown
 # 🔥 OpenProject
 ### 📁 Structure du projet 
-- — v1.0
+- *v1.0*
 ```text
 OpenProject/
 │
