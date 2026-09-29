@@ -15,6 +15,7 @@ Bibliothèque moderne regroupant les meilleurs *projets Android open‑source*, 
 - Liens directs vers les cours vidéo Kotlin
 
 >Objectif :
+[![CI - OpenProject](https://github.com/teremuhamblin/OpenProject/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/teremuhamblin/OpenProject/actions/workflows/ci.yml)
 *Eliminer les erreurs d’importation*, les *README* incompréhensibles et *le manque de guides visuels*.
 
 ### 🗂️ Structure du projet
