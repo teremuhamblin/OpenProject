@@ -1,17 +1,18 @@
 ###### README.md >> markdown 
 # 📘 OpenProject
-- *v1.0*
+- *version stable*
+
 Bibliothèque moderne regroupant les meilleurs *projets Android open‑source*, testés, validés, documentés et accompagnés de schémas et graphiques simples.
 
 ### 🚀 Présentation
-OpenProject centralise les projets Android open‑source les plus populaires, avec :
-- Documentation claire
+*OpenProject* centralise les projets `Android open‑source` les plus populaires, avec :
+- Documentation 
 - Schémas visuels
 - Graphiques simples
 - Liens directs vers les cours vidéo Kotlin
 
 >Objectif :
-Eliminer les erreurs d’importation, les README incompréhensibles et le manque de guides visuels.
+*Eliminer les erreurs d’importation*, les *README* incompréhensibles et *le manque de guides visuels*.
 
 ### 🗂️ Structure du projet
 ```text
