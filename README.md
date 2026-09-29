@@ -1,4 +1,7 @@
-###### README.md >> markdown 
+###### README.md >> markdown
+
+[![Docs Check](https://github.com/teremuhamblin/OpenProject/actions/workflows/docs-check.yml/badge.svg)](https://github.com/teremuhamblin/OpenProject/actions/workflows/docs-check.yml)
+
 # 📘 OpenProject
 - *version stable*
 
