@@ -6,23 +6,28 @@
 OpenProject/
 │
 ├── README.md
-│   ├── .gitignore
-│   ├── .github/ # pack github (action, workflows etc...)
+├── .gitignore
+├── .github/ # (pack github action, workflows etc...)
+├── .gitkeep
+│
 ├── docs/
 │   ├── README.md
 │   ├── architecture.md
 │   ├── structure.md
 │   ├── overview.md
 │   ├── schema-architecture.md
-│   └── graph-popularity.md
+│   ├── graph-popularity.md
+│   └── .gitkeep
 │
 ├── data/
 │   ├── README.md
-│   └── opensource-projects.json
+│   ├── projects.json
+│   └── .gitkeep
 │
 └── assets/
 │   ├── README.md
 │   ├── images/
 │   ├── badges.md
 │   ├── svg.md
+│   └── .gitkeep
 ```
