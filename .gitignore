@@ -1,0 +1,34 @@
+# OpenProject v1.0 — GitIgnore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Node / Web (au cas où tu ajoutes un module)
+node_modules/
+dist/
+
+# Android / Java
+*.class
+*.apk
+*.aab
+*.dex
+*.iml
+.gradle/
+build/
+
+# Python (si tu ajoutes des scripts)
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# Temp
+tmp/
+temp/
